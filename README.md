@@ -286,6 +286,7 @@ A curated, categorized collection of **free public APIs** for developers — gre
 | Pexels | Free stock photos & videos | apiKey | Yes | [Link](https://www.pexels.com/api/) |
 | Pixabay | Free images & videos | apiKey | Yes | [Link](https://pixabay.com/api/docs/) |
 | Lorem Picsum | Placeholder images | No | Yes | [Link](https://picsum.photos/) |
+| favicondl | Get any website's favicon by URL (PNG/ICO/SVG, JSON metadata) | No | Yes | [Link](https://favicondl.com/documentation.html) |
 
 ## Security
 
