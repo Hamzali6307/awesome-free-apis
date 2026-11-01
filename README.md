@@ -276,6 +276,7 @@ A curated, categorized collection of **free public APIs** for developers — gre
 | JokeAPI | Jokes with category filters | No | Yes | [Link](https://sv443.net/jokeapi/v2/) |
 | Chuck Norris Jokes | Chuck Norris joke generator | No | Yes | [Link](https://api.chucknorris.io/) |
 | Bored API | Random activity suggestions | No | Yes | [Link](https://www.boredapi.com/) |
+| Bucketlist.nl Dream of the Day | Daily travel or life-experience idea with canonical URL and image; Dutch by default | No | Yes | [Link](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) |
 | Kanye Rest | Random Kanye West quotes | No | Yes | [Link](https://kanye.rest/) |
 
 ## Photography & Images
