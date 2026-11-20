@@ -157,6 +157,7 @@ A curated, categorized collection of **free public APIs** for developers — gre
 |---|---|---|---|---|
 | Abstract Email Validation | Validate email addresses | apiKey | Yes | [Link](https://www.abstractapi.com/email-verification-validation-api) |
 | NumVerify | Phone number validation | apiKey | Yes | [Link](https://numverify.com/) |
+| FairValid | Email verification API with 300 shared free credits each month | apiKey (free tier) | Yes | [Link](https://fairvalid.com/en/help/api) |
 | Mailboxlayer | Email validation | apiKey | Yes | [Link](https://mailboxlayer.com/) |
 
 ## Dictionary & Translation
